@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+numpy
+jupyter
+
+
+pip install -r requirements.txt
